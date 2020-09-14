@@ -1,0 +1,12 @@
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const INIT_APPLICATION = 'INIT_APPLICATION';
+export const CHANGE_THEME = 'CHANGE_THEME';
+export const LIGHT = 'light';
+export const DARK = 'dark';
+export const DISABLE_BUTTONS = 'DISABLE_BUTTONS';
+export const ENABLE_BUTTONS = 'ENABLE_BUTTONS';
+export const PLUS = 'PLUS';
+export const MINUS = 'MINUS';
+export const MULTI = 'MULTI';
+export const DI = 'DI';
